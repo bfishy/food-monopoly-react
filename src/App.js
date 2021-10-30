@@ -1,6 +1,6 @@
 import './App.css';
 import React from 'react'
-import Calculator from "awesome-react-calculator/src/index.js";
+import Calculator from "./awesome-react-calculator/src/index.js";
 import Dice from 'react-dice-roll';
 import ReactCardFlip from 'react-card-flip';
 
